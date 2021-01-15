@@ -1,6 +1,6 @@
 # rngGame
 
-## RNG GUI inspired by the WoW betting community
+## RNG GUI made in Java Swing
 
 -Start by choosing a number between 10-100. 
 
